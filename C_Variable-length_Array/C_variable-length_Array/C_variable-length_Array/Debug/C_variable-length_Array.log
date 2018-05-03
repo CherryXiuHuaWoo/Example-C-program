@@ -1,0 +1,6 @@
+﻿  C_variable-length_Array.cpp
+c:\users\80426\documents\github\c\example-c-program\c_variable-length_array\c_variable-length_array\c_variable-length_array\c_variable-length_array.cpp(12): error C2131: 表达式的计算结果不是常数
+  c:\users\80426\documents\github\c\example-c-program\c_variable-length_array\c_variable-length_array\c_variable-length_array\c_variable-length_array.cpp(12): note: 因读取超过生命周期的变量而失败
+  c:\users\80426\documents\github\c\example-c-program\c_variable-length_array\c_variable-length_array\c_variable-length_array\c_variable-length_array.cpp(12): note: 请参见“ArrayLength”的用法
+c:\users\80426\documents\github\c\example-c-program\c_variable-length_array\c_variable-length_array\c_variable-length_array\c_variable-length_array.cpp(19): error C3863: 不可指定数组类型“int [ArrayLength]”
+c:\users\80426\documents\github\c\example-c-program\c_variable-length_array\c_variable-length_array\c_variable-length_array\c_variable-length_array.cpp(20): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int [ArrayLength]”
